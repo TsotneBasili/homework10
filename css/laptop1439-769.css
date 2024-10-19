@@ -17,12 +17,7 @@
     }
 
     .section2_section {
-        overflow: scroll;
-        
-    }
-
-    .section2_section_article {
-        flex: 1 0 298px; 
+        overflow: scroll;  
     }
 
     /* footer  */
@@ -51,6 +46,7 @@
         align-items: center;
         justify-content: center;
         background-color: #C46A2B;
+        cursor: pointer;
         border-radius: 32px;
         width: 48px;
         height: 48px;
