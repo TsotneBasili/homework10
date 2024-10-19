@@ -151,7 +151,7 @@
 .section2_section {
     display: flex;
     column-gap: 20px;
-    width: min(100%, 1440px);
+    width: min(100%, 1252px);
 }
 
 .section2_section_article {

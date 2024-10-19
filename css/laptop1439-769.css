@@ -17,6 +17,7 @@
     }
 
     .section2_section {
+        width: min(100%, 1440px);
         overflow: scroll; 
         padding-inline: 64px;
     }
