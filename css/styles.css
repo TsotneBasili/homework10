@@ -212,11 +212,12 @@
        
 }
 
-.section_article_a {
+.section_article_button {
     display: flex;
     align-items: center;
     justify-content: center;
 
+    cursor: pointer;
     width: 27px;
     height: 27px;
     background-color: #C46A2B;
