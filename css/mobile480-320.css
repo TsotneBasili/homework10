@@ -31,6 +31,10 @@
         line-height: 32px;
         
     }
+    
+    .section2_section {
+        padding-right: 8px; 
+    }
 
     .section2_section_article {
         flex: 1 0 260px; 
