@@ -22,7 +22,7 @@
 
     /* section2  */
     .section2 {
-        padding: 24px 0px 24px 8px;
+        padding: 24px 0px 24px;
         row-gap: 24px;
     }
 
@@ -33,7 +33,7 @@
     }
     
     .section2_section {
-        padding-right: 8px; 
+        padding-inline: 8px; 
     }
 
     .section2_section_article {

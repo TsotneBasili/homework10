@@ -13,12 +13,12 @@
 
     /* section2  */
     .section2 {
-        padding: 64px 0 64px 64px;   
+        padding: 64px 0 64px ;   
     }
 
     .section2_section {
         overflow: scroll; 
-        padding-right: 64px; 
+        padding-inline: 64px;
     }
 
     /* footer  */
@@ -60,11 +60,11 @@
 
     /* section2  */
     .section2 {
-        padding: 24px 0px 24px 24px;
+        padding: 24px 0px 24px;
     }
 
     .section2_section {
-        padding-right: 24px; 
+        padding-inline: 24px; 
     }
 
 
